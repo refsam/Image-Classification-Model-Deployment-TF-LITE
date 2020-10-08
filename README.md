@@ -1,2 +1,2 @@
 # Image-Classification-Model-Deployment-TF-LITE
-Last Submission from class machine learning class @dicoding 
+Last Submission from machine learning class @dicoding 
